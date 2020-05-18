@@ -3,6 +3,8 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
+import './fonts/Homemade_Apple/HomemadeApple-Regular.ttf';
+import './fonts/Cutive_Mono/CutiveMono-Regular.ttf';
 
 ReactDOM.render(
   <React.StrictMode>
